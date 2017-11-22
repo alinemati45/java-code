@@ -1,0 +1,9 @@
+run_project.runClass$1
+run_project.runClass$2$1
+run_project.ErrorMessage
+run_project.runClass$2
+seminar_class_sort_visual.run_project.runClass
+run_project.runClass$exitApp
+seminar_class_sort_visual.run_project.sortNames_Alogrithm
+run_project.runClass
+seminar_class_sort_visual.run_project.ErrorMessage
